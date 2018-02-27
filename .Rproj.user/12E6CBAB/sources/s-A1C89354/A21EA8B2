@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511207949530.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A21EA8B2",
+    "lastKnownWriteTime" : 1512165658,
+    "last_content_update" : 1512165658713,
+    "path" : "~/projects/Kenema Event Data Generator/eventData_generator_v2.R",
+    "project_path" : "eventData_generator_v2.R",
+    "properties" : {
+        "cursorPosition" : "16,35",
+        "scrollLine" : "6",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
